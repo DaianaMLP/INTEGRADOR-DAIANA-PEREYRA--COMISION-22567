@@ -11,14 +11,15 @@
     }
 .info-honolulu{
        width:100%;
-        height:100%;
+        height:auto;
+        margin-top:-64;
         justify-content: center;
         text-align: center;
         padding: 15px;
         background: #383C45;
         text-decoration: none;
         color: #ced4da;
-        font-size: 1em;
+        font-size: 0.6em;
         font-weight: 200;
         }
 .info-honolulu h1{
